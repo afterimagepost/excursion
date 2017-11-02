@@ -21,7 +21,7 @@ h3 {
   color: gray;
   font-size: 21px;
 }
-video {
-  autoplay: autoplay;
-  loop: loop;
+.copyright {
+  color: gray;
+  text-align: right;
 }
